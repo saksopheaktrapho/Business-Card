@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name bga)(type KiCad)(uri D:/other_kicad_project/pcb-business-card-qr-nfc-master/bga.pretty)(options "")(descr ""))
+)
